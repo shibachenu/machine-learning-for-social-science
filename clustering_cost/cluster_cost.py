@@ -1,5 +1,4 @@
 import math
-
 import numpy as np
 
 def cost_single_cluster(x, z):
